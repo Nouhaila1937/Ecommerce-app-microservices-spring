@@ -12,5 +12,8 @@ http://localhost:8083/customers/1?projection=email
 http://localhost:8082/products/1
 ![img_4.png](img_4.png)
 
+DIscovery service  on voie tout les services qu'on 'a lié
+http://localhost:8761/
+![img_5.png](img_5.png)
 
 
