@@ -21,4 +21,6 @@ le chemin après configuration de discovery
 ![img_6.png](img_6.png)
 ![img_7.png](img_7.png)
 
+partie de routage dynamique
+![img_8.png](img_8.png)
 
