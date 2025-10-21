@@ -17,3 +17,8 @@ http://localhost:8761/
 ![img_5.png](img_5.png)
 
 
+le chemin après configuration de discovery
+![img_6.png](img_6.png)
+![img_7.png](img_7.png)
+
+
