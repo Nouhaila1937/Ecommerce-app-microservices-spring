@@ -24,3 +24,5 @@ le chemin après configuration de discovery
 partie de routage dynamique
 ![img_8.png](img_8.png)
 
+partie de feign connexion des bases de données 
+![img_9.png](img_9.png)
