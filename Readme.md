@@ -26,3 +26,7 @@ partie de routage dynamique
 
 partie de feign connexion des bases de données 
 ![img_9.png](img_9.png)
+
+config server 
+don't forget to initialise you folder config-repo 
+![img_10.png](img_10.png)
